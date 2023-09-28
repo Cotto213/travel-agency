@@ -86,7 +86,7 @@ const App = () => {
         <View style={styles.listado}> <View style={styles.listaItem}>
           <Image
             style={styles.mejores}
-            source={require('./src/img/rutal.jpg')} />
+            source={require('./src/img/ruta1.jpg')} />
         </View>
           <View style={styles.listaItem}>
             <Image
